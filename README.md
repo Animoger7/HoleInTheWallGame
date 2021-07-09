@@ -8,16 +8,16 @@ The objective is to pass through as many walls as possible without crashing them
 1. Download these files.
 2. Add the Given Unity Part to your own Unity Project.
 3. Edit your build settings to be this order of Scenes (File -> Build Settings -> Scenes In Build):
-  - Scenes/StartGameScreen.
-  - Scenes/GamePlay.
-  - Scenes/ScoreScreen.
+    - Scenes/StartGameScreen.
+    - Scenes/GamePlay.
+    - Scenes/ScoreScreen.
 4. To run the game:
-  - Run the game from Unity.
-  - Press **Play** button.
-  - Pause the game 
-  - Run hole_in_the_wall_game_runner.py till we see the connection
-  - Un Pause the game and play normally.
-  - **If we lose the game and want to play again, press the Play Again button and go back to stage (3.3).**
+    - Run the game from Unity.
+    - Press **Play** button.
+    - Pause the game 
+    - Run hole_in_the_wall_game_runner.py till we see the connection
+    - Un Pause the game and play normally.
+    - **If we lose the game and want to play again, press the Play Again button and go back to stage (3.3).**
   
 Note: We need (4.3) stage since I didn't add automatic execution of (4.4) from the code yet and have to do it manually - so in order for the character to stay in place, we do it till we establish the connection with python) then we un pause in (4.5)
 
