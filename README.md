@@ -31,8 +31,8 @@ Python Part:
 Unity Part:
   * Animation Riggind Package (Min Version: Unity 2019.3):
     - To use it too:
-    Edit ->Project Settings -> Project Manager -> Enable Preview Packages.
-    Windwoss -> Package Manager -> Search for Animain Rigging and install.
+      * Edit ->Project Settings -> Project Manager -> Enable Preview Packages.
+      * Windwoss -> Package Manager -> Search for Animain Rigging and install.
   * TextMesh Pro: https://docs.unity3d.com/Manual/com.unity.textmeshpro.html
   * Assets used (From Unity Asset Store):
     - 3D Character Dummy: 
@@ -41,5 +41,5 @@ Unity Part:
       https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-particle-pack-127325
     
 # Credits
-Project by: Anis Mograbi and Mohammad Tawil.
-Mentored by: Yinon Oshrat.
+* Project by: Anis Mograbi and Mohammad Tawil.
+* Mentored by: Yinon Oshrat.
