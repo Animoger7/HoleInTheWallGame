@@ -17,7 +17,7 @@ The objective is to pass through as many walls as possible without crashing them
   - Pause the game 
   - Run hole_in_the_wall_game_runner.py till we see the connection
   - Un Pause the game and play normally.
-  **- If we lose the game and want to play again, press the Play Again button and go back to stage (3.3).**
+  - **If we lose the game and want to play again, press the Play Again button and go back to stage (3.3).**
   
 Note: We need (4.3) stage since I didn't add automatic execution of (4.4) from the code yet and have to do it manually - so in order for the character to stay in place, we do it till we establish the connection with python) then we un pause in (4.5)
 
