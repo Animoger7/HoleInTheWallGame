@@ -24,21 +24,19 @@ Note: We need (4.3) stage since I didn't add automatic execution of (4.4) from t
 # Used Tools
 Python Part:
   * Pose Estimation:
-    - Media Pipe Poses: https://google.github.io/mediapipe/solutions/pose.html
+    - [Media Pipe Poses](https://google.github.io/mediapipe/solutions/pose.html)
   * Image Displaying and Editing:
-    - cv2 from https://pypi.org/project/opencv-python/
+    - [cv2 from opencv-python](https://pypi.org/project/opencv-python/)
 
 Unity Part:
   * Animation Riggind Package (Min Version: Unity 2019.3):
     - To use it too:
       * Edit ->Project Settings -> Project Manager -> Enable Preview Packages.
       * Windwoss -> Package Manager -> Search for Animain Rigging and install.
-  * TextMesh Pro: https://docs.unity3d.com/Manual/com.unity.textmeshpro.html
+  * [TextMesh Pro](https://docs.unity3d.com/Manual/com.unity.textmeshpro.html]
   * Assets used (From Unity Asset Store):
-    - 3D Character Dummy: 
-      https://assetstore.unity.com/packages/3d/characters/humanoids/humans/3d-character-dummy-178395
-    - Unity Particle Pack (For the explosion effect): 
-      https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-particle-pack-127325
+    - (3D Character Dummy)[https://assetstore.unity.com/packages/3d/characters/humanoids/humans/3d-character-dummy-178395]
+    - (Unity Particle Pack (For the explosion effect))[https://assetstore.unity.com/packages/essentials/tutorial-projects/unity-particle-pack-127325]
     
 # Credits
 * Project by: Anis Mograbi and Mohammad Tawil.
