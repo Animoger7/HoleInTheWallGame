@@ -4,7 +4,7 @@ The game basically displays a character that is controlled by the real life pose
 Towards that character come moving walls with holes shaped as a specific position and the player must mimic this position to pass through the wall or he will crash and destroy the wall. 
 The objective is to pass through as many walls as possible without crashing them.
 
-# Game Play
+# Gameplay
 [![Game Play](https://img.youtube.com/vi/a2zWyde3zBQ/0.jpg)](https://www.youtube.com/watch?v=a2zWyde3zBQ)
 
 # Guidelines
