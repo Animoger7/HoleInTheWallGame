@@ -4,6 +4,9 @@ The game basically displays a character that is controlled by the real life pose
 Towards that character come moving walls with holes shaped as a specific position and the player must mimic this position to pass through the wall or he will crash and destroy the wall. 
 The objective is to pass through as many walls as possible without crashing them.
 
+# Game Play
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a2zWyde3zBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Guidelines
 1. Download these files.
 2. Add the Given Unity Part to your own Unity Project.
