@@ -5,7 +5,7 @@ Towards that character come moving walls with holes shaped as a specific positio
 The objective is to pass through as many walls as possible without crashing them.
 
 # Game Play
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a2zWyde3zBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Game Play](https://img.youtube.com/vi/a2zWyde3zBQ/0.jpg)](https://www.youtube.com/watch?v=a2zWyde3zBQ)
 
 # Guidelines
 1. Download these files.
